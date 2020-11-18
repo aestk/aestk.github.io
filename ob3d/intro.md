@@ -32,6 +32,6 @@ If you don't want to keep the `.txt` files, you can just delete them. The two im
 
 *to do: installation on other systems*
 
-You did all of the steps above? Very well! You are now able to create your first 3D programs!
+You did all of the steps above? Very good! You are now able to create your first 3D programs!
 
 [Next: Your first OpenB3D program](first.md)
