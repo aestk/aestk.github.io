@@ -26,9 +26,17 @@ Fire up your editor and enter the following code:
 Save the file as `first.bas` into your working directory and open the command prompt. Navigate to your working directory you created earlier. If your working directory path is `C:\Users\YOUR_USERNAME_HERE\openb3d\`, for instance, enter `cd openb3d`. Now run `fbc first.bas`. If you followed all of the previous steps there should be no errors. Now launch the executable via the command prompt or just double-click it in Explorer.
 
 You should see something like this:
+
 ![Empty black screen](../img/ob3d_1.png)
+
+### What kind of joke is this?
+
+It is not a joke. Yes, it's just a black screen, and yes, it's pretty boring right now. But: It's a working 3D scene, we just haven't added anything yet.
+
+You might ask what the point of this program is. Well, it's supposed to show you the very basic structure of any OpenB3D program without any unneccessary code.
 
 *to be continued...*
 
 [Previous: Introduction](intro.md)
+
 [Next: A light, a camera and a cube](basic.md)
