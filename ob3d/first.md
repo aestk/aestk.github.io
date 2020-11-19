@@ -46,7 +46,7 @@ Now we will break the code into small bits and examine it line by line.
 
 What we are doing here is the including of our OpenB3D header file we downlaoded before. Sometimes it's very helpful to take a look at the code contained in this header file, whether you want get a quick overview of the available OpenB3D subs/functions or if you forgot what parameters a function has or what data type its return value has.
 
-The other header file we include is `fbgfx.bi`. This is the header file for the FreeBasic Graphics Library (Gfxlib) which contains constants used in graphics programming.
+The other header file we include is `fbgfx.bi`. This header file contains constants for the FreeBasic Graphics Library (Gfxlib), which is used for graphics programming in FreeBasic.
 
 These two files are the ones you'll always want to include into your programs.
 
