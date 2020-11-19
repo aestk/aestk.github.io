@@ -1,6 +1,6 @@
 # aestk's GitHub page
 
-### OpenB3D Tutorial
+### FreeBasic + OpenB3D Tutorial
 0. [Introduction](ob3d/intro.md)
 1. [Your first OpenB3D scene](ob3d/first.md)
 
